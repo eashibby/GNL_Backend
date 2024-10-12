@@ -1,0 +1,6 @@
+__pycache__
+app.cpython-312.pyc
+.venv
+.vscode
+.env
+service_account.json

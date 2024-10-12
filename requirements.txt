@@ -1,0 +1,7 @@
+requests
+gspread
+pandas
+python-dotenv
+apscheduler
+flask
+pyodbc
